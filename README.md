@@ -5,3 +5,7 @@ Hellow World, I am new to GitHub and learning how it works. See you in future re
 
 Bye World
 
+
+I am back world. I am making another quick edit to see how commit messages work below. 
+
+Okay, I got to run. Bye World!
